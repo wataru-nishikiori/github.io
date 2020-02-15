@@ -1,0 +1,52 @@
+h1{
+  line-height: 4px;
+  font-size: 35px;
+  color: white;
+  opacity:0.8;
+}
+
+.single-title p{
+  font-size:15px;
+  color: white;
+  opacity:0.8;
+}
+
+p{
+  text-align:justify;
+}
+
+.single-title{
+    padding-top:100px;
+    padding-bottom:100px;
+    padding-right: 25px;
+    background-image:url(images2.jpg);
+    background-position:center bottom;
+    background-size:cover;
+  }
+.entry-content h2 {
+    padding: 0.5em;
+    color: #494949;
+    background: #ddd;
+    border-left: solid 5px #444;
+}
+
+.contact{
+  border-bottom:dotted lightgray;
+  font-size:25px;
+  color:#494949;
+}
+
+input,textarea{
+width:400px;
+margin:0;
+padding:20px;
+font-size:18px;
+border:1px solid #dee7ec;
+}
+
+.contact-form p{
+  font-size:18px;
+  line-height: 5px;
+  font-weight:bold;
+  color:#494949;
+}
